@@ -1,0 +1,7 @@
+Basic.sh todo list
+- fmlsec
+
+- add format string testing
+- add buffer overflow fuzzing
+- add save feature for report
+- add help function
