@@ -101,7 +101,6 @@ then
 fi
 
 analysis
-chex
 
 
 #basic.sh by fmlsec
